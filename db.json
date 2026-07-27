@@ -119,6 +119,22 @@
       "section": "B",
       "roll": 15,
       "status": "leave"
+    },
+
+       {  "id": "15",
+      "name": "Arif Mahmud",
+      "class": "8",
+      "section": "B",
+      "roll": 15,
+      "status": "leave"
+    },
+    {
+      "id": "16",
+      "name": "Rafiul Islam",
+      "class": "8",
+      "section": "A",
+      "roll": 16,
+      "status": "present"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
